@@ -1,5 +1,7 @@
 # Citi Bike Analytics and Insights
 
+A data visualization project that helps publicize and share information about the New York Citi Bike program from March 2019 to March 2020.  Built using Tableau.
+
 ## Overview
 
 The New York Citi Bike program is the largest bike sharing program in the United States. Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike webpage. For more information about the program, see <https://en.wikipedia.org/wiki/Citi_Bike>.
