@@ -28,6 +28,7 @@ Here are links to each of the individual Tableau dashboards created for this pro
 * [Start Station Popularity Dashboard](https://public.tableau.com/profile/phil.stubbs#!/vizhome/CitiBikeAnalytics_15879541754520/StartStationPopularityDashboard)
 * [End Station Popularity Dashboard](https://public.tableau.com/profile/phil.stubbs#!/vizhome/CitiBikeAnalytics_15879541754520/EndStationPopularityDashboard)
 * [Rider Demographics Dashboard](https://public.tableau.com/profile/phil.stubbs#!/vizhome/CitiBikeAnalytics_15879541754520/RiderDemographicsDashboard)
+* [Customers vs Subscribers Dashboard](https://public.tableau.com/profile/phil.stubbs#!/vizhome/CitiBikeAnalytics_15879541754520/CustomersvsSubscribersDashboard)
 
 ### Visualizations
 
